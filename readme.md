@@ -4,6 +4,7 @@
 
 > _[AngularJS - angularjs.org](http://angularjs.org)_
 
+> STEVAN
 
 ## Learning AngularJS
 The [AngularJS website](http://angularjs.org) is a great resource for getting started.
